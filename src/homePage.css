@@ -1,0 +1,16 @@
+.smaller-width {
+  width: 600px;
+  margin: 0 auto;
+}
+.with-border {
+  margin: 0 auto;
+  border-bottom: 2px solid #007bff; /* Adjust the color and thickness as needed */
+  width: 60%;
+}
+.home-page-color {
+  background-color: #282c35;
+}
+
+.accent {
+  color: #1a1a1a;
+}

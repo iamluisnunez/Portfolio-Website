@@ -1,0 +1,16 @@
+/* Add these styles to your CSS file or inline styles */
+
+.tech-stack-icons {
+  margin-top: 40px; /* Add margin at the top */
+  margin-bottom: 40px; /* Add margin at the top */
+}
+
+.icon-container {
+  display: flex;
+  justify-content: space-between; /* Distribute space between icons evenly */
+  margin-top: 10px; /* Add margin at the top of the icon container */
+}
+
+.icon {
+  margin-right: 20px; /* Add margin to the right of each icon */
+}
