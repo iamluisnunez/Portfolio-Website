@@ -11,18 +11,11 @@ const Projects = () => {
       <div className="project-container">
         <h2>Finance Manager</h2>
         {/* Add other content here */}
-
-        <a
-          href="https://github.com/iamluisnunez/FinanceApp"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <img
-            src="./images/FinanceManager.png"
-            alt="Finance Manager"
-            className="project-image"
-          />
-        </a>
+        <img
+          src="./images/FinanceManager.png"
+          alt="Finance Manager"
+          className="project-image"
+        />
         <a
           href="https://github.com/iamluisnunez/FinanceApp"
           className="project-button"
