@@ -1,7 +1,7 @@
 import React from "react";
 import ContactMe from "./ContactMe";
 import Projects from "./Projects";
-import "../HomePage.css";
+import "../homePage.css";
 import TechStackIcons from "./TechStackIcons";
 
 const HomePage = () => {
