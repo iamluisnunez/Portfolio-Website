@@ -32,7 +32,7 @@ const Projects = () => {
           GitHub
         </a>
         <a
-          href="https://example.com/finance-manager-live"
+          href="https://spectacular-gnome-1046d7.netlify.app/"
           className="project-button"
           target="_blank"
           rel="noopener noreferrer"
