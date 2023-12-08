@@ -66,7 +66,7 @@ const Projects = () => {
           GitHub
         </a>
         <a
-          href="https://example.com/url-to-pdf-live"
+          href="https://app.netlify.com/sites/coruscating-sprinkles-935426/overview"
           className="project-button"
           target="_blank"
           rel="noopener noreferrer"
