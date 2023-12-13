@@ -6,7 +6,7 @@ const ResumeButton = () => {
   const downloadResume = () => {
     // Add logic to trigger the download of the resume (e.g., open a new window with the resume URL)
     // For example:
-    window.open("../LuisNunez_Resume.pdf", "_blank");
+    window.open("src/LuisNunez_Resume.docx.pdf", "_blank");
   };
 
   return (
