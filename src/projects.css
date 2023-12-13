@@ -15,7 +15,6 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  margin-bottom: 20px; /* Add some margin between projects */
   border: 1px solid #ddd; /* Add a border with color and thickness */
   border-radius: 8px; /* Add border radius for a rounded appearance */
   padding: 20px; /* Add padding for better spacing */

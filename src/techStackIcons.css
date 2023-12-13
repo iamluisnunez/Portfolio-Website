@@ -7,7 +7,7 @@
 
 .icon-container {
   display: flex;
-  justify-content: space-between; /* Distribute space between icons evenly */
+  justify-content: space-around; /* Distribute space between icons evenly */
   margin-top: 10px; /* Add margin at the top of the icon container */
 }
 

@@ -42,7 +42,7 @@ const Projects = () => {
       </div>
 
       {/* Project 2 */}
-      <div className="project-container mt-5">
+      <div className="project-container">
         <h2>URL To PDF</h2>
         {/* Add other content here */}
 

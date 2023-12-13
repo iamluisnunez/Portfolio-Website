@@ -1,6 +1,7 @@
 import React from "react";
 import ContactMe from "./ContactMe";
 import Projects from "./Projects";
+import ResumeButton from "./ResumeButton";
 import "../homePage.css";
 import TechStackIcons from "./TechStackIcons";
 
@@ -42,6 +43,7 @@ const HomePage = () => {
               </div>
             </div>
           </div>
+          <ResumeButton />
           <TechStackIcons />
         </section>
       </div>

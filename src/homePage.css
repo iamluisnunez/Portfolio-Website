@@ -5,7 +5,6 @@
 .with-border {
   margin: 0 auto;
   border-bottom: 2px solid #007bff; /* Adjust the color and thickness as needed */
-  width: 60%;
 }
 .home-page-color {
   background-color: #282c35;
