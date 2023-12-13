@@ -19,7 +19,7 @@ const HomePage = () => {
                   web developer based in Austin, Texas. With a strong foundation
                   in IT support and a flair for crafting innovative solutions, I
                   bring a unique blend of technical expertise and creative
-                  problem-solving to the world of web development.
+                  problem-solving to the world of development.
                 </p>
                 <br />
                 <h2>Professional Background</h2>
