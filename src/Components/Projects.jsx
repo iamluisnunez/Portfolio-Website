@@ -47,7 +47,7 @@ const Projects = () => {
         {/* Add other content here */}
 
         <a
-          href="https://github.com/iamluisnunez/URLtoPDF"
+          href="https://github.com/iamluisnunez/HTMLtoPDF"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -58,7 +58,7 @@ const Projects = () => {
           />
         </a>
         <a
-          href="https://github.com/iamluisnunez/URLtoPDF"
+          href="https://github.com/iamluisnunez/HTMLtoPDF"
           className="project-button"
           target="_blank"
           rel="noopener noreferrer"
